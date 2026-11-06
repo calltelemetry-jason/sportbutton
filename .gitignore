@@ -1,0 +1,12 @@
+# Build artifacts
+test_runner
+protocol_test
+*.o
+*.obj
+build/
+.pio/
+
+# Editor / OS cruft
+.DS_Store
+.vscode/
+*.swp
